@@ -2,7 +2,7 @@
 """
 Created on Fri Feb  4 13:29:50 2022
 
-@author: ihcco
+@author: Alessandro Bocchi
 """
 
 import tkinter as tk
